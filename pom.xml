@@ -25,7 +25,7 @@
         <javafaker.version>0.16</javafaker.version>
 		<distribution.management.release.id>bintray</distribution.management.release.id>
 		<distribution.management.release.url>https://api.bintray.com/maven/warroyo/maven-repo/beer-service-k8s</distribution.management.release.url>
-		<DOCKER_REGISTRY_ORGANIZATION>warroyo90</DOCKER_REGISTRY_ORGANIZATION>
+		<DOCKER_REGISTRY_ORGANIZATION>warroyo</DOCKER_REGISTRY_ORGANIZATION>
 		<DOCKER_SERVER_ID>docker-repo</DOCKER_SERVER_ID>
 		<DOCKER_REGISTRY_URL>https://index.docker.io/v1/</DOCKER_REGISTRY_URL>
 	</properties>
